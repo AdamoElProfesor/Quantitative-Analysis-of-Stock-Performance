@@ -222,9 +222,7 @@ This graph shows different volatility trends for each stock over the period.
 
 A noticeable spike occurs in May, with Amazon showing the highest volatility, followed by Apple. From January to February, all three stocks experienced relatively low volatility.  
 
-Between November and February, Amazon and Google had similar volatility levels, while Apple consistently showed the highest fluctuations.  
-
-There is a period from November to the end of December where Apple's volatility deviated from the pattern seen in Google and Amazon.  
+Between November and February, Amazon and Google had similar volatility levels, while  Apple's volatility deviated from the pattern seen in Google and Amazon.  
 
 In September 2025, Apple reaches the highest volatility peak among the three, although it begins to decrease afterward. Overall, the stocks display broadly similar volatility patterns.
 
